@@ -1,0 +1,9 @@
+.but{
+    color: rgb(174, 238, 132);
+    background-color: blue;
+    margin-left: 3px;
+    margin-right: 3px;
+}
+#in{
+    display: flex; position: relative;right: 5%;
+}
